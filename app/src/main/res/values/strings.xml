@@ -1,0 +1,12 @@
+<resources>
+    <string name="hello_false">Привет! Ты не авторизован в баг-трекере.Пожалуйста,авторизуйтесь</string>
+    <string name="app_name">Bugtracker</string>
+    <string name="members">Участники</string>
+    <string name="products">Продукты</string>
+    <string name="create">Создать</string>
+    <string name="reports">Отчеты</string>
+    <string name="my_reports">Мои Отчёты</string>
+
+    <string name="report_v">отчетов</string>
+    <string name="report_a">отчета</string>
+</resources>
